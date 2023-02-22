@@ -1,2 +1,4 @@
 # Aliver_buoyancy
-a project on buoyancy - on github so I can work at home
+#A buoyancy project - with some Flight Simulators as well!
+#image of my simulator:
+<img src="simimage.png" height="400px" alt="My simulator">
